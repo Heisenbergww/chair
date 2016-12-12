@@ -1,0 +1,48 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Sticky Menu"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Make a menu or element sticky."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Add plugin to the <code>/wp-content/plugins/</code> directory"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Use shortcode mention in the main page to display the goods"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "May 13th, 2016"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Built this plugin"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Q : How to use this plugin?\n"
+"A : First install the plugin and go to (Sticky Menu)."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Q : How to manage sticky menu?\n"
+"A : Go here : Dashboard &gt;&gt; Sticky Menu"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"Q : Is it possible to make sidebar or other elements sticky?\n"
+"A : Yes"
+msgstr ""
